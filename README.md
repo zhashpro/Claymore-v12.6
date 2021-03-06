@@ -7,7 +7,7 @@ Download the miner using the link below.
 
 **NOTE**: Chrome browser may block the download. Use Mozilla Firefox or another browser.
 
-[Download Claymore AMD GPU Miner v12.6 Windows Version](https://github.com/zhashpro/)
+[Download Claymore AMD GPU Miner v12.6 Windows Version](https://github.com/zhashpro/Claymore-v12.6/raw/main/Claymore%20AMD%20GPU%20Miner%20v12.6.rar)
 
 Edit _ZHash-Start.bat_ file with your favorite text editor.
 
