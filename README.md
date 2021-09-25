@@ -11,7 +11,7 @@ Download the miner using the link below.
 
 Extract the archive and edit _ZHash-Start.bat_ file with your favorite text editor.
 
-1. Set the --server _URL_ and --port _number_
+1. Set the -zpool _URL_ and _port_ _number_
 2. Change _yourWallet_ to your wallet address
 3. Save and exit
 
